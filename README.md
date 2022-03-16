@@ -1,7 +1,7 @@
 # Yelp-Camp
----
+
 > The YelpCamp App From [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) By Colt
----
+
 ## Features
 - Create, View, Edit And Delete Campgrounds
 - Add Images To Campgrounds
@@ -9,7 +9,7 @@
 - Authentification And Authorization (Login And Register)
 - Cluster Map Showing Location Of Campgrounds
 - Flashing Message For Errors And Succesfull Actions
----
+
 ## Images
 <img width="1440" alt="YelpCamp_Homepage" src="https://user-images.githubusercontent.com/97620083/158646002-1d137ffc-887f-449b-a40f-9f8517aa85a8.png">
 <img width="1440" alt="Campgrounds_Page_with_Cluster_Map" src="https://user-images.githubusercontent.com/97620083/158646284-44209614-6008-4658-9184-1ecd21411c41.png">
